@@ -1,0 +1,26 @@
+img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+    
+    
+}
+div{
+    background-color: bisque;
+}
+
+h1{
+    height: 45px;
+    text-align:center;
+    color:crimson;
+    background-color:beige;
+}
+p{
+    font-style: italic;
+    color: brown;
+}
+h6{
+    color:blueviolet;
+    font-style:italic;
+}
